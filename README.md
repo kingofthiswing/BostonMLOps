@@ -23,3 +23,7 @@ Problems with solutions
 
 prob- wasnt able to install bosvenv.
 sol-updated conda and tried again it worked
+
+Find out 
+
+- if __name__=="__main__", what does this do
